@@ -1,0 +1,6 @@
+4x4 sm monster should be 15mm shorter
+8 Figure 
+ -should be 20 mm shorter
+ -Mising slot for one side
+ -Slots in bottom for 2 rooms should be removed, same for tabs in side
+2x1 st monster should be 10mm shorter
