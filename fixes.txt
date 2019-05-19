@@ -1,0 +1,2 @@
+Increase Card-box by 1 mm for each card room
+Cut Card-box in half and double the number of card boxes
